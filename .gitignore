@@ -1,1 +1,2 @@
-.gitignore of root git folder
+build/
+*.out
